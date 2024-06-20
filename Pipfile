@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tqdm = "*"
+notebook = "==7.1.2"
+anthropic = "*"
+elasticsearch = "*"
+pandas = "*"
+scikit-learn = "*"
+dotenv = "*"
+python-dotenv = "*"
+openai = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
