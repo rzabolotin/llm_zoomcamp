@@ -6,3 +6,4 @@ pandas
 scikit-learn
 python-dotenv
 openai
+streamlit
