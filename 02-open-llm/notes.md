@@ -22,17 +22,12 @@
 - PHI-3 от Microsoft
 - Mistral 
 
-Для запуска кода необходимо установить библиотеки:
-* transformers
-* accelerate
-* bitsandbytes
-* sentencepiece
-* torch
+Для запуска кода необходимо установить библиотеки: `transformers, accelerate, bitsandbytes, sentencepiece, torch`
 
 Мои ноутбуки, с примерами запуска моделей:
-* [FLAN-T5](<02-open-llm/1. FLAT T5.ipynb>)
-* [PHI-3](<02-open-llm/2. PHI 3.ipynb>)
-* [Mistral](<02-open-llm/3. Mistral.ipynb>)
+* [FLAN-T5](<1. FLAT T5.ipynb>)
+* [PHI-3](<2. PHI 3.ipynb>)
+* [Mistral](<3. Mistral.ipynb>)
 
 ### Важные замечания
 * Для указания папки в которой хранить модели нужно указать переменную окружения
