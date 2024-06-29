@@ -76,8 +76,7 @@ os.environ['HF_HOME'] = '/run/cache/'
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
 
-ollama start
-ollama serve phi3
+ollama serve 
 ```
 
 Вести диалог можно в виде чата `ollama run phi3` или в виде вызова api. Можно использовать библиотеку openai, т.к. она поддерживает тотже api.
