@@ -29,17 +29,49 @@
 * [PHI-3](<2. PHI 3.ipynb>)
 * [Mistral](<3. Mistral.ipynb>)
 
+### Пример кода для работы с моделью FLAN-T5
+
+```python
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+tokenizer = T5Tokenizer.from_pretrained("google/flan-t5-xl")
+model = T5ForConditionalGeneration.from_pretrained("google/flan-t5-xl", device_map="auto")
+def llm(prompt, generate_params=None):
+    if generate_params is None:
+        generate_params = {}
+
+    input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to("cuda")
+    outputs = model.generate(
+        input_ids,
+        max_length=generate_params.get("max_length", 100),
+        num_beams=generate_params.get("num_beams", 5),
+        do_sample=generate_params.get("do_sample", False),
+        temperature=generate_params.get("temperature", 1.0),
+        top_k=generate_params.get("top_k", 50),
+        top_p=generate_params.get("top_p", 0.95),
+    )
+    result = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    return result
+
+llm("What is the capital of France?")
+```
+
 ### Важные замечания
 * Для указания папки в которой хранить модели нужно указать переменную окружения
 ```python
 os.environ['HF_HOME'] = '/run/cache/'
 ```
-* Для некоторых моделей на huggingface необходимо принять соглашение, и потом для получения самой модели нужно залогиниться в api. Например для Mistral
+* Для некоторых моделей на huggingface необходимо принять соглашение, и потом для получения самой модели нужно залогиниться в api. Например для Mistral.
 
 ## Использование ollama
 
-Ollama это проект, который позволяет запукать LLM на своем компьютере, работает не очень, но можно что-то тестировать.
-Можно установить ее через wsl:
+![Ollama](images/ollama.png)
+
+Также есть возможность запускать некоторые слабые LLM на своем комьютере, используя только процессор. Это будет гораздо хуже, чем запуск на GPU. Но может быть полезным в некоторых сценариях.
+
+[Ollama](https://ollama.com/) это проект, который позволяет запукать LLM на своем компьютере. Также его можно использовать в рамках docker контейнера.
+
+
+Установка в Linux:
 
 ```bash
 curl -fsSL https://ollama.com/install.sh | sh
@@ -48,7 +80,7 @@ ollama start
 ollama serve phi3
 ```
 
-Вести диалог можно в виде чата `ollama run phi3` или в виде вызова api. Можно использовать библиотеку openai
+Вести диалог можно в виде чата `ollama run phi3` или в виде вызова api. Можно использовать библиотеку openai, т.к. она поддерживает тотже api.
 
 ```python
 from openai import OpenAI
@@ -60,19 +92,22 @@ client = OpenAI(
 
 ```
 
-Также ollama можно использовать в docker контейнере. 
-
-Вот пример приложения которое мы сделали локально:
+Пример приложения которое мы сделали локально с использованием ollama и elasticsearch:
 * [docker-compose](docker-compose.yaml)
 * [ноутбук](4.run-ollama-local.ipynb)
-* [streamlit приложение для чата](qa_faq.py)
+
+## Streamlit чат
+
+В качестве бонуса - сделали небольшой чат на streamlit, который использует проект в docker-compose с ollama и elasticsearch.
+
+* [Streamlit application](qa_faq.py)
 
 
 ## Выводы
 
-Технологии LLM это не только закрытые API, но и открытые модели, которые можно использовать на своем компьютере.
+Технологии LLM это не только закрытые API, но и открытые модели, которые можно использовать самостоятельно.
 
-И конечно они намного хуже закрытых, но тоже технологии продвигаются вперед, и открытые модели также становятся лучше.
+Конечно они заметно уступают проприетарным, но тоже технологии продвигаются вперед, и открытые модели также становятся лучше (хоть и остаются на шаг позади)
 
 ## Ссылки
 
@@ -81,4 +116,4 @@ client = OpenAI(
 * [saturn cloud](https://saturncloud.io/)
 * [лидерборд open llm](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
 * [лидерборд open llm perf](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
-* [llm tutorial from huggingface](https://huggingface.co/docs/transformers/en/llm_tutorial)
+* [LLM tutorial (huggingface)](https://huggingface.co/docs/transformers/en/llm_tutorial)
