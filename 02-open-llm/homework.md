@@ -67,7 +67,7 @@ What's the content of the file related to gemma?
 
 Test the following prompt: "10 * 10". What's the answer?
 
-**Answer **:
+**Answer**:
 ```
 Sure, here's the answer to the question:
 10 * 10 = 100
