@@ -43,8 +43,10 @@ Now execute the block.
 What's the last document id?
 
 Also note the index name.
+
 **Answer:**
-last document: 6fc3236a
+
+last document: 6fc3236a  
 index_name: documents_20240813_1009
 
 # Q5. Testing the retrieval
@@ -106,21 +108,20 @@ What's the ID of the top matching result?
 
 ```json
 {
-  '_index': 'documents_20240813_1009',
-  '_id': '4cI3S5EBmo3lK9SDcC0X',
-  '_score': 8.443945,
-  '_source': {
-    'text': 'Summer 2025 (via Alexey).',
-    'section': 'General course-related questions',
-    'question': 'When will the course be offered next?',
-    'course': 'llm-zoomcamp',
-    'document_id': 'bf024675'
+  "_index": "documents_20240813_1009",
+  "_id": "4cI3S5EBmo3lK9SDcC0X",
+  "_score": 8.443945,
+  "_source": {
+    "text": "Summer 2025 (via Alexey).",
+    "section": "General course-related questions",
+    "question": "When will the course be offered next?",
+    "course": "llm-zoomcamp",
+    "document_id": "bf024675"
   }
 }
 ```
+
 **Answer:** bf024675
-
-
 
 # Q6. Reindexing
 
@@ -130,6 +131,19 @@ Let's re-execute the entire pipeline with the updated data.
 
 For the same query "When is the next cohort?". What's the ID of the top matching result?
 
-{'_index': 'documents_20240814_3128', '_id': 'zFonT5EBq3Uve6oiuacp', '_score': 17.212463, '_source': {'text': 'Summer 2026.', 'section': 'General course-related questions', 'question': 'When is the next cohort?', 'course': 'llm-zoomcamp', 'document_id': 'b6fa77f3'}}
+```json
+{
+  "_index": "documents_20240814_3128",
+  "_id": "zFonT5EBq3Uve6oiuacp",
+  "_score": 17.212463,
+  "_source": {
+    "text": "Summer 2026.",
+    "section": "General course-related questions",
+    "question": "When is the next cohort?",
+    "course": "llm-zoomcamp",
+    "document_id": "b6fa77f3"
+  }
+}
+```
 
 **Answer:** b6fa77f3
