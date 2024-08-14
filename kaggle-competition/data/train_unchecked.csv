@@ -1,0 +1,988 @@
+problem_id,problem_text,answer
+9625,"Find a four-digit number that is 14 times smaller than the cube of some natural number. In the answer, provide any one such number.",1568
+1064,Find the root of the equation $\log _{\frac{1}{2} } \left(5x-36\right)=2$.,7.25
+8511,"The airplane's navigation system informs the passenger that the flight is at an altitude of 38,000 feet. Express the flight altitude in meters. Assume that 1 foot is equal to 30.5 cm.",11590
+9692,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Match the inequalities with their solutions.
+
+\begin{center}
+\hyphenpenalty=10000\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}}
+\multicolumn{1}{C}{INEQUALITIES} & \multicolumn{1}{C}{SOLUTIONS} \\
+A) $x^{2}+11x-12\le 0$ & 1) $-1\le x \le 12$ \\ 
+B) $x^{2}-11x-12\le 0$ & 2) $-12\le x \le 1$ \\ 
+C) $x^{2} +7x+12\ge 0$ & 3) $x \le 3$ or $x \ge 4$ \\ 
+D) $x^{2} -7x+12\ge 0$ & 4) $x \le -4$ or $x \ge -3$ \\ 
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Write the corresponding solution number under each letter in the table provided in your answer.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & &  \\ \hline\end{tabular}\end{center}\vspace{\medskip}",2143
+221,"The city budget amounts to 84 million rubles, and the expenditures on one of its items amounted to 45%. How many million rubles were spent on this budget item?",37.8
+3112,Find the value of the expression $\left(6\sqrt{19} + 4\right) \cdot \left(6\sqrt{19} - 4\right)$.,668
+4636,Find the value of the expression \(\dfrac{7}{12} + \dfrac{5}{14} \cdot \dfrac{7}{6}\).,1
+4776,A cheese bar costs 13 rubles. What is the maximum number of cheese bars that can be bought for 70 rubles?,5
+4816,A pack contains 250 sheets of A4 paper. The office uses 1400 sheets per week. What is the minimum number of packs of paper needed for 7 weeks?,40
+5032,"In the building where Olya lives, there are 9 floors and several entrances. On each floor, there are 6 apartments. Olya lives in apartment No. 98. In which entrance does Olya live?",2
+2464,"Find the value of the expression $\dfrac{0,6}{1+\dfrac{1}{2} }$.",0.4
+9013,"Grandma has 20 cups: 8 with red flowers, the rest with blue flowers. Grandma pours tea into a randomly selected cup. Find the probability that it will be a cup with blue flowers.",0.6
+7107,A set of towels that cost 240 rubles is being sold at a 5% discount. How many rubles do two sets of towels cost with the discount?,456
+2394,Find the value of the expression $\dfrac{11}{20} : 0.55 + \dfrac{3}{5}$.,1.6
+7320,"At a school, boys make up 54% of the total number of students. How many students are there in total at this school if there are 60 fewer girls than boys?",750
+5185,Find the root of the equation \(2^{x-10} = \dfrac{1}{4}\).,8
+4159,"The surface area of a rectangular parallelepiped with edges \(a\), \(b\), and \(c\) is calculated using the formula \(S=2\left(ab+ac+bc\right)\). Find the surface area of the rectangular parallelepiped if its edges have lengths 2, 4, and 8.",112
+8108,Find the value of the expression $\tg 13^{\circ} \cdot \ctg 13^{\circ}$.,1
+7856,"The work of direct current (in joules) is calculated using the formula \mbox{$A=I^2Rt$}, where $I$ is the current (in amperes), $R$ is the resistance (in ohms), and $t$ is the time (in seconds). Using this formula, find $A$ (in joules), if $t=3$~s, $I=5$~A, and $R=10$~ohms.",750
+4559,Find the value of the expression $\log_{2} 16 - \log_{2} 4$.,2
+5263,Find the root of the equation: $\left(\dfrac{1}{5} \right)^{5 - x} =125$.,8
+7015,"The item on sale was discounted by 20%, and its price became 520 rubles. How many rubles did the item cost before the sale?",650
+7076,"In the school, 90 students study French, which is 12% of the total number of students in the school. How many students are there in the school?",750
+7032,The price of an electric kettle was increased by 17% and became 1521 rubles. How many rubles did the kettle cost before the price increase?,1300
+8117,"To prepare a marinade for cucumbers, 18 grams of citric acid are required per 1 liter of water. Citric acid is sold in packets of 10 grams each. What is the minimum number of packets the housewife needs to buy to prepare 7 liters of marinade?",13
+8691,The probability that a battery is defective is 0.4. A customer in a store selects a random pack containing two such batteries. Find the probability that both batteries will be defective.,0.16
+1409,"Cross out three digits in the number 65031029 so that the resulting number is divisible by 15. In your answer, indicate any one resulting number.",50310
+5879,Find the value of the expression $\dfrac{4\strut^{8}}{64\strut^{2}}$.,16
+107,"The table provides data on six bags.
+\begin{center}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|c|c|c|c|} \hline
+Bag Number & Length (cm) & Height (cm) & Width (cm) & Mass (kg) \\ \hline
+1 & 56 & 25 & 15 & 8.1 \\ \hline
+2 & 47 & 30 & 16 & 9.2 \\ \hline
+3 & 51 & 39 & 22 & 8.5 \\ \hline
+4 & 53 & 34 & 17 & 9.4 \\ \hline
+5 & 45 & 37 & 29 & 7.6 \\ \hline
+6 & 42 & 32 & 12 & 11.3 \\ \hline
+\end{tabularx}
+\end{center}
+
+
+According to the airline's rules, a bag that can be taken as carry-on luggage must not exceed 55 cm in length, 40 cm in height, 20 cm in width, and must not weigh more than 10 kg. Which bags can be taken as carry-on luggage according to these rules?
+
+
+In your answer, indicate the numbers of the selected bags without spaces, commas, or other additional symbols.",24
+10650,"Here is the translated problem:
+
+Several boards were taken and sawed. A total of 11 cross cuts were made, resulting in 16 pieces. How many boards were taken?",5
+4395,Find $\cos x$ if $\sin x = \dfrac{\sqrt{21}}{5}$ and $0^\circ < x < 90^\circ$.,0.4
+7922,"The sum of the angles of a regular convex polygon is calculated using the formula $\Sigma =\left(n-2\right){\rm \pi }$, where $n$ is the number of its angles. Using this formula, find $n$ if $\Sigma =15{\rm \pi }$.",17
+5818,Find the value of the expression $\dfrac{5\strut^{-10} \cdot 5\strut^{5} }{5\strut^{-9} } $.,625
+9721,"The number \( m \) is equal to \(\sqrt{2.2} \).
+
+Each of the four numbers in the left column corresponds to an interval to which it belongs. Establish the correspondence between the numbers and the intervals from the right column.
+
+\begin{center}
+\hyphenpenalty=10000
+\renewcommand{\arraystretch}{2}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}} 
+\multicolumn{1}{c}{NUMBERS} & \multicolumn{1}{c}{INTERVALS} \\
+A) \( 3+m \) & 1) \( \left[ 0;1 \right] \) \\ 
+B) \( \dfrac{2}{m} \) & 2) \( \left[ 1;2 \right] \) \\ 
+C) \( \sqrt{2-m} \) & 3) \( \left[ 2;3 \right] \) \\ 
+D) \( m^{2} \) & 4) \( \left[ 4;5 \right] \) \\
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Fill in the table in the answer with the corresponding interval number under each letter.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D  \\ \hline & & &  \\ \hline\end{tabular}\end{center}\vspace{\medskip}",4213
+2669,Find the value of the expression \(\dfrac{29}{7} :\left(\dfrac{2}{7} +\dfrac{3}{4} \right)\).,4
+11711,"In parallelogram $ABCD$, the diagonals are perpendicular. The sum of angles $A$ and $C$ is $120^\circ$, and $AB = 44$. Find $BD$.",44
+59,"The table presents data on the cost of a certain smartphone model in various stores.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|X|>{\centering\arraybackslash}X|} \hline
+\multicolumn{1}{c}{Store} & Smartphone Cost (RUB) \\ \hline
+OK-Technika & 8950 \\ \hline
+Skorostnoy & 8800 \\ \hline
+Magic Communication & 9150 \\ \hline
+I-Phone & 8949 \\ \hline
+Smartphone and Co & 8875 \\ \hline
+Progress-E & 8799 \\ \hline
+999 Phones & 9210 \\ \hline
+Macrosearch & 8749 \\ \hline
+Universe of Phones & 8948 \\ \hline
+\end{tabularx}
+\end{center}
+
+Find the lowest cost of the smartphone among the presented offers. Provide the answer in rubles.",8749
+7004,"The item on sale was discounted by 40%, resulting in a price of 810 rubles. How many rubles did the item cost before the sale?",1350
+6123,"Find a four-digit number that is divisible by 44, and any two adjacent digits of which differ by 1. Provide any one such number in your answer.",1232;3432;5456;7876;5676
+7012,"The item on sale was discounted by 45%, resulting in a price of 880 rubles. How many rubles did the item cost before the sale?",1600
+12208,"A four-digit number \( A \) consists of the digits 1, 4, 6, 9, and a four-digit number \( B \) consists of the digits 2, 3, 8, 9. It is known that \( B = 2A \). Find the number \( A \). In your answer, specify any one such number greater than 1500.",1649; 1946; 1964
+5896,Find the value of the expression $\dfrac{10\strut^{11} \cdot 5\strut^{10} }{50\strut^{9} } $.,500
+7309,"In the school, girls make up 52% of the total number of students. How many girls are there in this school if there are 18 more girls than boys?",234
+7743,"The length of the angle bisector \( l_{c} \) drawn to the side \( c \) of a triangle with sides \( a \), \( b \), and \( c \) is calculated by the formula \( l_{c} = \dfrac{1}{a+b} \sqrt{ab\left(\left(a+b\right)^{2} -c^{2} \right)} \). Find the angle bisector \( l_{c} \) if \( a=2 \), \( b=8 \), and \( c=5\sqrt{3} \).",2
+11989,"Match the quantities with their possible values: for each element in the first column, select the corresponding element from the second column.
+\begin{center}
+\begin{tabular}{p{8cm}p{0.1cm}p{4.9cm}}
+\multicolumn{1}{c}{QUANTITIES} & & VALUES \\ 
+A) volume of a railway tank car & 1) & 90 m^3 \\ 
+B) volume of a balloon & 2) & 2600 m^3 \\ 
+C) volume of water in an Olympic swimming pool & 3) & 4000 cm^3 \\ 
+\end{tabular}
+\end{center}
+
+In the table below, under each letter corresponding to the quantity, indicate the number of its possible value.
+
+\vspace{\medskip}
+
+\begin{tabular}{|*{3}{c|}} \hline
+A & B & C  \\ \hline
+ &  &   \\ \hline
+\end{tabular}",132
+9575,"The table shows the results of the geography and biology olympiads in the 11th ""A"" grade.
+
+\begin{center}
+\begin{tabular}{|c|c|c|} \hline
+Student Number & Geography Score & Biology Score \\\hline
+1 & 97 & 76 \\\hline
+2 & 44 & 84 \\\hline
+3 & 60 & 36 \\\hline
+4 & 61 & 74 \\\hline
+5 & 45 & 93 \\\hline
+6 & 88 & 30 \\\hline
+7 & 36 & 81 \\\hline
+8 & 37 & 32 \\\hline
+9 & 100 & 62 \\\hline
+\end{tabular}
+\end{center}
+
+Commendation certificates are awarded to those students whose total score in the two olympiads is greater than 150 or who scored at least 80 points in at least one subject.
+
+In your answer, list the student numbers from the 11th ""A"" grade who scored less than 80 points in geography and received commendation certificates, without spaces, commas, or other additional symbols.",27
+10448,"The radius of the circle inscribed in a right triangle is calculated using the formula $r=\dfrac{a+b-c}{2}$, where $a$ and $b$ are the legs, and $c$ is the hypotenuse. 
+Using this formula, find $r$ if $a=88$, $b=105$, and $c=137$.",28
+13509,"A traveler sailed across the sea on a yacht at an average speed of 12 km/h. On the way back, he flew in a sports plane at a speed of 276 km/h. Find the traveler's average speed over the entire journey. Provide the answer in km/h.",23
+9698,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Establish the correspondence between the inequalities and their solutions.
+
+\begin{center}
+\hyphenpenalty=10000\renewcommand{\arraystretch}{1.5}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}}
+\multicolumn{1}{C}{INEQUALITIES} & \multicolumn{1}{C}{SOLUTIONS} \\
+A) $x^{2} -6x-40\le 0$ & 1) $x \le -8$ or $x \ge -5$ \\ 
+B) $x^{2} -13x+40\ge 0$ & 2) $-4\le x \le 10$ \\ 
+C) $x^{2} +6x-40\le 0$ & 3) $x \le 5$ or $x \ge 8$ \\ 
+D) $x^{2} +13x+40\ge 0$ & 4) $-10\le x \le 4$ \\ 
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Write in the table provided in the answer the corresponding solution number under each letter.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & &  \\ \hline\end{tabular}\end{center}\vspace{\medskip}",2341
+4367,Find the value of the expression $\left(\sqrt{28} -\sqrt{7} \right)\cdot \sqrt{7}$.,7
+8565,"Solve the equation \(x^{2} = 2x\). If the equation has more than one root, specify the greater one in your answer.",2
+4639,"In several relays held at the school, the teams showed the following results:
+
+\vspace{\medskip}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|} \hline
+Team & Relay I, & Relay II, & Relay III, \\ 
+ & points & points & points \\ \hline
+ ""Invincibles"" & 2 & 1 & 1 \\ \hline
+ ""Breakthrough"" & 3 & 4 & 2 \\ \hline
+ ""Champions"" & 1 & 2 & 4 \\ \hline
+ ""Typhoon"" & 4 & 3 & 3 \\ \hline
+\end{tabular}
+\end{center}
+
+\vspace{\medskip}
+
+When summing up the results, the points for all relays are summed for each team. The team with the highest number of points wins. What final place did the ""Champions"" team take?",3
+8172,"For a birthday, it is customary to give a bouquet with an odd number of flowers. Peonies cost 45 rubles each. Vanya has 430 rubles. What is the largest number of peonies he can buy for Masha's birthday bouquet?",9
+5172,Find the root of the equation $-3\left(8+x\right)+6x= -3$.,7
+1209,"In the gymnastics championship, 80 athletes are participating: 23 from Argentina, 29 from Brazil, and the rest from Paraguay. The order in which the gymnasts perform is determined by drawing lots. Find the probability that the athlete performing first will be from Paraguay.",0.35
+3136,Find the value of the expression \(\left(3\sqrt{2} - \sqrt{10} \right)\left(3\sqrt{2} + \sqrt{10} \right)\).,8
+2991,"The formula $t_{C} =\dfrac{5}{9} \left(t_{F} -32\right)$ allows you to convert temperature from the Fahrenheit scale to the Celsius scale, where $t_{C}$ is the temperature in degrees Celsius and $t_{F}$ is the temperature in degrees Fahrenheit. How many degrees Celsius correspond to 149 degrees Fahrenheit?",65
+98,"The table below provides data on six bags.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|c|c|c|c|} \hline
+Bag Number & Length (cm) & Height (cm) & Width (cm) & Mass (kg) \\ \hline
+1 & 52 & 38 & 15 & 8.5 \\ \hline
+2 & 50 & 35 & 24 & 9.1 \\ \hline
+3 & 62 & 49 & 16 & 9.6 \\ \hline
+4 & 46 & 32 & 15 & 11.5 \\ \hline
+5 & 48 & 31 & 18 & 9.8 \\ \hline
+6 & 65 & 47 & 12 & 7.4 \\ \hline
+\end{tabularx}
+\end{center}
+
+According to the airline's rules, a bag can be taken as hand luggage if its dimensions do not exceed 55 cm in length, 40 cm in height, 20 cm in width, and its mass does not exceed 10 kg. Which bags can be taken as hand luggage according to these rules?
+
+In your answer, indicate the numbers of the selected bags without spaces, commas, or any other additional symbols.",15
+10652,"Several boards were taken and sawed. A total of 5 crosscuts were made, resulting in 23 pieces. How many boards were taken?",18
+13593,"A motor ship, which has a speed of 24 km/h in still water, travels downstream and, after a stop, returns to its starting point. The speed of the current is 4 km/h, the stop lasts 3 hours, and the motor ship returns to the starting point 36 hours after departing from it. How many kilometers did the motor ship travel over the entire trip?",770
+3657,"At the beginning of the year, the number of subscribers of the telephone company ""Vostok"" was 200 thousand people, and by the end of the year, it had increased to 220 thousand people. By what percentage did the number of subscribers of this company increase over the year?",10
+8135,"To prepare a marinade for cucumbers, 12 grams of citric acid are required per 1 liter of water. Citric acid is sold in packets of 10 grams each. What is the minimum number of packets that the housewife needs to buy to prepare 8 liters of marinade?",10
+4977,"Establish the correspondence between the quantities and their possible values: match each element from the first column with the corresponding element from the second column.
+
+\vspace{\medskip}
+
+\begin{center}\hyphenpenalty=10000\begin{tabular}{p{8cm}p{5cm}}
+QUANTITIES & VALUES \\
+A) mass of a football & 1) 18 kg \\
+B) mass of a raindrop & 2) 2.8 tons \\
+C) mass of an adult hippopotamus & 3) 20 mg \\
+D) mass of a washing machine & 4) 750 g \\
+\end{tabular}\end{center}
+
+\vspace{\medskip}
+
+In the table, under each letter corresponding to a quantity, indicate the number of its possible value.
+
+\vspace{\medskip}
+
+\begin{tabular}{|c|c|c|c|} \hline
+A & B & C & D \\ \hline
+ &  &  &  \\ \hline
+\end{tabular}",4321
+8171,"On birthdays, it is customary to give a bouquet with an odd number of flowers. Chrysanthemums cost 65 rubles each. Vanya has 560 rubles. What is the maximum number of chrysanthemums he can buy for Masha's birthday bouquet?",7
+7878,"The potential energy of a body (in joules) in the gravitational field of the Earth near the surface is calculated using the formula $E = mgh$, where $m$ is the mass of the body (in kilograms), $g$ is the gravitational constant, and $h$ is the height (in meters) at which the body is located relative to a reference point. Using this formula, find $m$ (in kilograms) if $g = 9.8$ m/s$^2$, $h = 5$ m, and $E = 196$ J.",4
+1022,Find the root of the equation \(2^{5x - 6} \cdot 2^{1 - 4x} = 1\).,5
+5451,"The probability that a new ballpoint pen writes poorly or does not write at all is 0.11. A customer, without looking, takes one ballpoint pen from the box. Find the probability that this pen writes well.",0.89
+8409,"The cost of a six-month subscription to the magazine is 730 rubles, and the cost of a single issue of the magazine is 33 rubles. Over six months, Anya bought 25 issues of the magazine. How many rubles less would she have spent if she had subscribed to the magazine?",95
+1418,"Strike out three digits in the number 58918749 so that the resulting number is divisible by 18. In the answer, specify one such resulting number.",58914; 59184; 89874
+7553,"The harmonic mean of three numbers $a$, $b$, and $c$ is calculated using the formula $h=\left(\dfrac{\dfrac{1}{a} +\dfrac{1}{b} +\dfrac{1}{c} }{3} \right)^{-1}$. Find the harmonic mean of the numbers $\dfrac{1}{3}$, $\dfrac{1}{4}$, and $\dfrac{1}{5}$.",0.25
+8441,"The installation of two water meters (cold and hot) costs 2500 rubles. Before the installation of the meters, the water bill was 1700 rubles per month. After the installation of the meters, the monthly water bill became 1000 rubles. After what minimum number of months will the savings on the water bill exceed the cost of installing the meters, assuming that water rates do not change?",4
+1225,"In the gymnastics championship, 60 athletes are participating: 23 from Spain, 16 from Portugal, and the rest from Italy. The order in which the gymnasts perform is determined by a draw. Find the probability that the gymnast performing first will be from Italy.",0.35
+3001,"The formula $t_{\textrm{C}} =\dfrac{5}{9} \left(t_{\textrm{F}} -32\right)$ allows you to convert temperature from the Fahrenheit scale to the Celsius scale, where $t_{\textrm{C}}$ is the temperature in degrees Celsius, and $t_{\textrm{F}}$ is the temperature in degrees Fahrenheit. How many degrees Celsius correspond to 410 degrees Fahrenheit?",210
+7879,"The potential energy of a body (in joules) in the Earth's gravitational field near the surface is calculated using the formula \( E = mgh \), where \( m \) is the mass of the body (in kilograms), \( g \) is the gravitational constant, and \( h \) is the height (in meters) at which the body is located relative to an arbitrary zero point. Using this formula, find \( m \) (in kilograms) if \( g = 9.8 \) m/s\(^2\), \( h = 0.5 \) m, and \( E = 49 \) J.",10
+4642,"In several relays held at the school, the teams achieved the following results:
+
+\vspace{\medskip}
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|} \hline
+Team & I Relay, & II Relay, & III Relay, \\ 
+ & points & points & points \\ \hline
+ ""Invincibles"" & 1 & 3 & 2 \\ \hline
+ ""Breakthrough"" & 4 & 1 & 4 \\ \hline
+ ""Champions"" & 3 & 4 & 3 \\ \hline
+ ""Typhoon"" & 2 & 2 & 1 \\ \hline
+\end{tabular}
+\end{center}
+
+\vspace{\medskip}
+
+When summarizing the results, the points for each team from all relays are summed up, and the team with the highest number of points wins. What final place did the team ""Champions"" achieve?",1
+1400,"Cross out three digits in the number 53164185 so that the resulting number is divisible by 12. In your answer, indicate one possible resulting number.",51648; 53148
+4382,Find the value of the expression \(\log_{2} 0.2 + \log_{2} 80\).,4
+2312,Find the value of the expression \(\dfrac{3}{5} - 1.2 - \left( - \dfrac{3}{2} \right)\).,0.9
+2865,Find the value of the expression \(5\cdot 10^{-1} +3\cdot 10^{2} +7\cdot 10\).,370.5
+5026,"In the building where Nina lives, there are 9 floors and several entrances. There are 5 apartments on each floor. Nina lives in apartment No. 77. In which entrance does Nina live?",2
+7243,"During the sale period, the store reduced prices twice: the first time by 20%, and the second time by 15%. How many rubles did the kettle cost after the second price reduction, if it cost 1400 rubles before the sale started?",952
+7785,"To convert temperature from the Celsius scale to the Fahrenheit scale, use the formula $t_{F} =1.8t_{C} +32$, where $t_{C} $ is the temperature in degrees Celsius, and $t_{F} $ is the temperature in degrees Fahrenheit. How many degrees Fahrenheit correspond to 23 degrees Celsius?",73.4
+2569,Find the value of the expression \(\left(\dfrac{3}{10} - \dfrac{16}{25}\right) \cdot \dfrac{4}{17}\).,-0.08
+6892,Find the value of the expression \(\dfrac{7.7}{3.7-8.7}\).,-1.54
+2546,Find the value of the expression $\left(\dfrac{9}{16} + 2\dfrac{3}{8} \right) \cdot 4$.,11.75
+4980,"Match the quantities with their possible values: for each element in the first column, select the corresponding element from the second column.
+
+\vspace{\medskip}
+
+\begin{center}\hyphenpenalty=10000\begin{tabular}{p{8cm}p{5cm}}
+QUANTITIES & VALUES \\
+A) mass of a kitchen refrigerator & 1) 3500 g \\
+B) mass of a bus & 2) 15 g \\
+C) mass of a newborn baby & 3) 18 t \\
+D) mass of a pencil & 4) 38 kg \\
+\end{tabular}\end{center}
+
+\vspace{\medskip}
+
+In the table, under each letter corresponding to a quantity, indicate the number of its possible value.
+
+\vspace{\medskip}
+
+\begin{tabular}{|c|c|c|c|} \hline
+A & B & C & D \\ \hline
+ &  &  &  \\ \hline
+\end{tabular}",4312
+12050,"Here is the translated problem:
+
+In the queue at the school cafeteria are Vera, Sonya, Vasya, Denis, and Anya. Vera is standing in front of Sonya but behind Anya; Vasya and Anya are not standing next to each other; Denis is not standing next to either Anya, Vera, or Vasya.
+Select the statements that are true under the given condition.
+
+\vspace{\medskip}
+\begin{tabular}{p{0.2cm}l} 
+1) & Vasya is standing in front of Denis.\\ 
+2) & Sonya and Vasya are standing next to each other.\\ 
+3) & Vera is standing behind Denis.\\ 
+4) & Anya is standing behind Vasya.\\ 
+\end{tabular}
+
+\vspace{\medskip}
+
+In the answer, write down the numbers of the selected statements without spaces, commas, or other additional symbols.",12
+12041,Find an odd three-digit number whose digits sum to 11 and whose digits multiply to 36. Provide any one such number as the answer.,1433; 1343; 1334; 3134; 3143; 3314; 3413; 3341; 3431; 4133; 4313; 4331
+10059,"A rectangle is divided into four smaller rectangles by two straight cuts. The areas of three of them, starting from the top left and moving clockwise, are 18, 12, and 20. Find the area of the fourth rectangle.",30
+3129,Find the value of the expression $\left(\sqrt{13} - 2\sqrt{3}\right)\left(\sqrt{13} + 2\sqrt{3}\right)$.,1
+7037,The price of the electric kettle was increased by 14% and amounted to 1596 rubles. How many rubles did the kettle cost before the price increase?,1400
+8723,"In the café, each visitor receives a complimentary item from the establishment that is not on the menu. The probability that the complimentary item will be an almond cookie is 0.1. The probability that the complimentary item will be an éclair is 0.15. Find the probability that the complimentary item given to visitor I. will be either an almond cookie or an éclair.",0.25
+8652,"Dan had four candies in his pocket—""Lastochka,"" ""Vzlyotnaya,"" ""Vasilek,"" and ""Grilyazh""—as well as his apartment keys. While taking out the keys, Dan accidentally dropped one candy from his pocket. Find the probability that the candy ""Vzlyotnaya"" was lost.",0.25
+4308,"The area of a quadrilateral can be calculated using the formula \( S = \dfrac{1}{2} d_{1} d_{2} \sin \alpha \), where \( d_{1} \) and \( d_{2} \) are the lengths of the diagonals of the quadrilateral, and \( \alpha \) is the angle between the diagonals. Using this formula, find the area \( S \) if \( d_{1} = 6 \), \( d_{2} = 14 \), and \( \sin \alpha = \dfrac{6}{7} \).",36
+12095,"In the store, draft kvass can be purchased in bottles, and the cost of kvass in a bottle consists of the cost of the bottle itself and the kvass poured into it. The price of the bottle does not depend on its volume. A bottle of kvass with a volume of 1 liter costs 42 rubles, while a volume of 2 liters costs 72 rubles. How many rubles will a bottle of kvass with a volume of 1.5 liters cost?",57
+8625,The probability that the screen of a mobile phone will break when dropped on a hard surface is 0.91. Find the probability that the screen of the mobile phone will not break when dropped on a hard surface.,0.09
+12064,"In the building, there are a total of seventeen apartments numbered from 1 to 17. Each apartment houses no fewer than one and no more than four people. In the apartments from the 1st to the 11th inclusive, there are a total of 13 people, and in the apartments from the 7th to the 17th inclusive, there are a total of 31 people. How many people live in the building in total?",37
+8599,Find the root of the equation \(\left(x-1\right)^2=\left(x+1\right)^2\).,0
+4102,"The power of direct current (in watts) is calculated using the formula \(P = I^{2} R\), where \(I\) is the current (in amperes), and \(R\) is the resistance (in ohms). Using this formula, find \(P\) (in watts) if \(R = 9\) ohms and \(I = 4\) amperes.",144
+8524,A runner covered 250 meters in 25 seconds. Find the runner's average speed over the distance. Give the answer in kilometers per hour.,36
+7918,"The radius of the inscribed circle in a right triangle is calculated using the formula $r=\dfrac{a+b-c}{2}$, where $a$ and $b$ are the legs, and $c$ is the hypotenuse. Using this formula, find $c$ if $a=12$, $b=35$, and $r=5$.",37
+6822,The income tax is 13% of the salary. Ivan Kuzmich's salary is 9000 rubles. What amount will he receive after paying the income tax? Provide the answer in rubles.,7830
+4887,"In a summer camp, there are 165 children and 23 counselors. One bus can carry no more than 44 passengers. What is the minimum number of buses needed to transport everyone from the camp to the city in one trip?",5
+7316,"In the school, boys make up 55% of the total number of students. How many students are there in this school if there are 60 more boys than girls?",600
+7611,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Establish the correspondence between the inequalities and their solutions.
+
+\begin{center}
+\hyphenpenalty=10000
+\renewcommand{\arraystretch}{2}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}} 
+\multicolumn{1}{C}{INEQUALITIES} & \multicolumn{1}{C}{SOLUTIONS} \\
+A) $2\strut^{x} \ge 1$ & 1) $\left(- \infty ;- 1\right]$ \\ 
+B) $0.5\strut^{x} \ge 2$ & 2) $\left(- \infty ;0\right]$  \\ 
+C) $0.5\strut^{x} \le 2$ & 3) $\left[- 1;+ \infty \right)$  \\ 
+D) $2\strut^{x} \le 1$ & 4) $\left[0;+ \infty \right)$ \\
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Fill in the answer table with the corresponding solution number under each letter.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & &  \\ \hline\end{tabular}\end{center}\vspace{\medskip}",4132
+116,"Sergey Petrovich wants to buy a microwave oven of a specific model from an online store. The table shows 6 offers from different online stores.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|c|c|c|} \hline
+Store Number & Store Rating & Product Price\newline (RUB) & Delivery Cost\newline (RUB) \\ \hline
+1 & 4 & 14300 & 350 \\ \hline
+2 & 4 & 15890 & 400 \\ \hline
+3 & 4.5 & 13999 & 0 \\ \hline
+4 & 3.5 & 13990 & 0 \\ \hline
+5 & 3 & 11609 & 690 \\ \hline
+6 & 5 & 17990 & 500 \\ \hline
+\end{tabularx}
+\end{center}
+
+Sergey Petrovich believes the purchase should be made in a store with a rating of at least 4. Among the stores that meet this condition, choose the offer with the lowest total purchase cost including delivery.
+
+In your answer, write down the number of the selected store.",13999
+3127,Find the value of the expression \(\left(\sqrt{6} -3\sqrt{2} \right)\left(\sqrt{6} +3\sqrt{2} \right)\).,-12
+1012,Find the root of the equation \(2^{4-2x} =\left(\frac{1}{8} \right)^{2x+3}\),-3.25
+8705,A room is illuminated by a lantern with two lamps. The probability of one lamp burning out within a year is 0.2. Find the probability that both lamps will burn out within a year.,0.04
+2366,Find the value of the expression $\dfrac{21}{25} :\dfrac{7}{5} -0.3$.,0.3
+6840,"In September, 1 kg of plums cost 60 rubles. In October, the price of plums increased by 30%. How many rubles did 1 kg of plums cost after the price increase in October?",78
+3527,"A tourist is selecting tours. Information about the tours is presented in the table.
+
+\vspace{\baselineskip}
+
+\hyphenpenalty=10000
+\begin{tabularx}{\textwidth}{|C|C|>{\centering\arraybackslash}X|} \hline
+Tour Number & Visited Sites & Cost (RUB) \\ \hline
+1 & Art Museum & 150 \\ \hline
+2 & Country Palace & 250 \\ \hline
+3 & Fortress & 250 \\ \hline
+4 & Country Palace, Fortress & 250 \\ \hline
+5 & Country Palace, Park & 300 \\ \hline
+6 & Park, Art Museum & 200 \\ \hline
+\end{tabularx}
+\vspace{\medskip}
+\hyphenpenalty=50
+
+Using the table, select a set of tours so that the tourist visits four sites: a fortress, a country palace, a park, and an art museum, while the total cost of the tours does not exceed 650 rubles. In the answer, specify any one set of tour numbers without spaces, commas, or other additional symbols.",46
+6849,Holders of a bookstore discount card receive a 5% discount on purchases. The book costs 240 rubles. How many rubles will the holder of the discount card pay for this book?,228
+8649,"On the plane, there are 19 seats next to the emergency exits and 13 seats behind the partitions separating the cabins. The remaining seats are uncomfortable for a tall passenger. Passenger L. is tall. Find the probability that at check-in, when a seat is randomly assigned, Passenger L. will get a comfortable seat, given that there are 400 seats in total on the plane.",0.08
+3462,"A telephone company offers a choice of three tariff plans.
+
+\vspace{\baselineskip}
+
+\hyphenpenalty=10000
+\begin{tabularx}{\textwidth}{|C|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|} \hline
+Tariff Plan & Monthly Subscription Fee & Cost per Minute of Call \\ \hline
+""Per-minute"" & None & 0.5 rubles \\ \hline
+""Combined"" & 180 rubles for 360 minutes & 0.4 rubles (beyond 360 minutes per month) \\ \hline
+""Unlimited"" & 345 rubles per month & None \\ \hline
+\end{tabularx}
+\vspace{\medskip}
+\hyphenpenalty=50
+
+A subscriber assumes that the total duration of calls will be 600 minutes per month and chooses the cheapest tariff plan based on this assumption. How many rubles will the subscriber have to pay for the month if the total duration of calls actually amounts to 600 minutes?",276
+10695,"At the end of the term, Vovochka listed all his grades for one subject in a row. There were 5 grades in total, and he placed multiplication signs between some of them. The product of the resulting numbers turned out to be 2007. What is Vovochka's final grade for this subject for the term if the teacher only gives grades ""2,"" ""3,"" ""4,"" or ""5,"" and the final grade for the term is the arithmetic mean of all the current grades, rounded according to the rounding rules? (For example, 3.2 is rounded to 3; 4.5~--- to 5; and 2.8~--- to 3.)",3
+8175,"On a birthday, it is customary to give a bouquet of an odd number of flowers. Tulips cost 40 rubles each. Vanya has 190 rubles. What is the largest number of tulips he can buy for Masha's birthday bouquet?",3
+8506,"The airplane's navigation system informs the passenger that the flight is at an altitude of 27,000 feet. Express the flight altitude in meters. Assume that 1 foot is equal to 30.5 cm.",8235
+6832,"Income tax is 13% of the salary. Ivan Kuzmich's salary is 11,000 rubles. What amount will he receive after deducting income tax? Provide the answer in rubles.",9570
+10054,"The quiz task list consisted of 36 questions. For each correct answer, the student received 5 points, for each incorrect answer 11 points were deducted, and for no answer, 0 points were given. How many correct answers did the student give if they scored 75 points, given that they made at least one mistake?",26
+7061,"The income tax is 13% of the salary. After withholding the income tax, Maria Konstantinovna received 15,225 rubles. How many rubles is Maria Konstantinovna's salary?",17500
+5450,"The probability that a new ballpoint pen writes poorly or does not write at all is 0.14. A customer, without looking, takes one ballpoint pen from the box. Find the probability that this pen writes well.",0.86
+13123,Mixed 4 liters of a 15% aqueous solution of a certain substance with 6 liters of a 25% aqueous solution of the same substance. What is the concentration percentage of the resulting solution?,21
+11937,Two candidates participated in the election. The votes of the electorate were distributed between them in a ratio of 3:17. What percentage of the votes did the losing candidate receive?,15
+8478,"To paint 1 square meter of ceiling, 140 grams of paint are required. The paint is sold in 3 kg cans. What is the minimum number of cans of paint needed to paint a ceiling area of 42 square meters?",2
+11691,"In parallelogram \(ABCD\), the diagonals are the bisectors of its angles, \(AB = 25\), \(AC = 14\). Find \(BD\).",336
+4370,Find the value of the expression $\log_{7} 0.5 + \log_{7} 98$.,2
+10662,"Here is the translated problem:
+
+Several consecutive pages fell out of a book. The page number of the last page before the missing pages is 298, and the page number of the first page after the missing pages is composed of the same digits but in a different order. How many pages fell out?",265
+4845,"Establish the correspondence between the quantities and their possible values: for each element in the first column, match the corresponding element from the second column.
+
+\vspace{\medskip}
+
+\begin{center}
+\hyphenpenalty=10000
+\begin{tabular}{p{8cm}p{5cm}}
+QUANTITIES & VALUES \\
+A) diameter of a coin & 1) 6400 km\\
+B) height of a giraffe & 2) 324 m\\
+C) height of the Eiffel Tower & 3) 20 mm\\
+D) radius of the Earth & 4) 5 m \\
+\end{tabular}\end{center}
+
+\vspace{\medskip}
+
+In the table, under each letter corresponding to the quantity, indicate the number of its possible value.
+
+\vspace{\medskip}
+
+\begin{tabular}{|c|c|c|c|} \hline
+A & B & C & D \\ \hline
+ &  &  &  \\ \hline
+\end{tabular}",3421
+6176,"Find a three-digit number that is a multiple of 70, all of whose digits are different, and the sum of the squares of its digits is divisible by 5 but not by 25. Provide any one such number in your answer.",210; 420; 630; 840; 980
+2597,Find the value of the expression $\left(1\dfrac{7}{8} -8\dfrac{1}{2} \right)\cdot 8$.,-53
+1004,Find the root of the equation \(5^{4x - 5} = 5^{3x - 2}\),3
+13923,"Establish the correspondence between the functions and the characteristics of these functions on the interval $\left[0;4\right]$.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{clcX}
+\multicolumn{2}{c}{FUNCTIONS} & \multicolumn{2}{c}{CHARACTERISTICS} \\
+A) & $y=3-12x$     & 1) & the function decreases on the interval $\left[0;4\right]$    \\
+B) & $y=-3x^{2}+7x-7$     & 2) & the function takes positive values at every point of the interval $\left[0;4\right]$    \\
+C) & $y=x^{2}-x+2$     & 3) & the function increases on the interval $\left[0;4\right]$   \\
+D) & $y=2x-6$    &      4) & the function takes negative values at every point of the interval $\left[0;4\right]$    \\
+\end{tabularx}
+\end{center}
+
+\vspace{\baselineskip}
+In the table, indicate the corresponding number under each letter.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline  A & B & C & D \\ \hline & & & \\ \hline\end{tabular}",1423
+13564,"The distance between cities A and B is 780 km. The first car left city A heading towards city B, and one hour later, the second car left city B heading towards the first car at a speed of 90 km/h. Find the speed of the first car if the cars met at a distance of 330 km from city A. Provide the answer in km/h.",55
+1202,"In a random experiment, a fair coin is tossed twice. Find the probability that the result of the second toss is the same as the result of the first toss.",0.5
+12038,"Masha and the Bear ate 85 cookies and a jar of jam, starting and finishing at the same time. Initially, Masha was eating the jam, and the Bear was eating the cookies, but at some point, they switched. The Bear eats both the jam and the cookies four times faster than Masha. How many cookies did the Bear eat if they ate the jam equally?",80
+9226,"In the city park, there are 5 attractions: carousel, Ferris wheel, bumper cars, ""Romashka,"" and ""Happy Shooting Range."" There are six types of tickets sold at the ticket offices, each allowing entry to one or two attractions. Information about the ticket prices is presented in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+Ticket Number&Attractions&Cost (RUB)\\\hline
+1&""Romashka,"" Ferris wheel&300\\\hline
+2&""Romashka,"" ""Happy Shooting Range""&450\\\hline
+3&Ferris wheel&150\\\hline
+4&Bumper cars, ""Happy Shooting Range""&500\\\hline
+5&Carousel, bumper cars&300\\\hline
+6&Ferris wheel, carousel&350\\\hline
+\end{tabular}
+\end{center}
+
+Which tickets should Andrey buy to visit all five attractions and spend no more than 900 rubles?
+
+In the answer, indicate any one set of ticket numbers without spaces, commas, or any other additional symbols.",235
+2409,Find the value of the expression \(48\cdot \left(\dfrac{19}{48} - \dfrac{11}{24}  - \dfrac{7}{12} \right)\).,-31
+8619,The probability that the screen of a mobile phone will break when dropped on a hard surface is 0.74. Find the probability that the screen of the mobile phone will not break when dropped on a hard surface.,0.26
+8582,Find the root of the equation \(\left(3x-6\right)^2-9x^2=0\).,1
+3306,Find the value of the expression $\left(\sqrt{15} - \sqrt{2}\right)\left(\sqrt{15} + \sqrt{2}\right)$.,13
+2564,Find the value of the expression \(\left(\dfrac{4}{15} + \dfrac{11}{20} \right)\cdot \dfrac{120}{49}\).,2
+4512,Find the value of the expression \(57\sqrt{2} \cos 405{}^\circ \).,57
+4339,Find the value of the expression $\dfrac{5\sqrt{27} }{\sqrt{3} } $.,15
+16278,Two pedestrians start walking simultaneously in the same direction from the same place along an alley in the park. The speed of the first pedestrian is $1.5$ km/h greater than the speed of the second. After how many minutes will the distance between the pedestrians be $300$ meters?,12
+6847,Holders of a bookstore discount card receive a 5% discount on purchases. The book costs 180 rubles. How many rubles will the discount card holder pay for this book?,171
+8752,"To knit a sweater, the housewife needs 800 grams of red wool yarn. She can buy red yarn at a price of 70 rubles for 50 grams, or she can buy undyed yarn at a price of 50 rubles for 50 grams and dye it. One packet of dye costs 30 rubles and is enough to dye 400 grams of yarn. Which purchase option is cheaper? In your answer, specify how many rubles this purchase will cost.",860
+7054,"The income tax is 13% of the salary. After the income tax was withheld, Maria Konstantinovna received 8700 rubles. How many rubles is Maria Konstantinovna's salary?",10000
+10704,"At the end of the term, Vovochka wrote down all his grades in a row for one of the subjects; there turned out to be 5 grades, and he placed multiplication signs between some of them. The product of the resulting numbers turned out to be 5825. What is Vovochka's grade for the term in this subject if the teacher only gives grades of ""2"", ""3"", ""4"", or ""5"" and the final grade for the term is the arithmetic mean of all current grades, rounded according to rounding rules? (For example, 3.2 is rounded to 3; 4.5 to 5; and 2.8 to 3.)",3; 4
+2479,Find the value of the expression \(\dfrac{1}{\dfrac{1}{2} +\dfrac{1}{8}}\).,1.6
+9589,A straight section of pipe with a length of 5 meters and a circular cross-section needs to be painted on the outside (the ends of the pipe are open and do not need to be painted). Find the surface area that needs to be painted if the external circumference of the pipe is 16 cm. Give your answer in square centimeters.,8000
+9242,"A traveler from Moscow wants to visit four cities of the Golden Ring of Russia: Vladimir, Yaroslavl, Suzdal, and Rostov. The travel agency offers routes that include visits to some of the Golden Ring cities. Information about ticket prices and routes is presented in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|}\hline
+Route Number&Visited Cities&Cost (RUB)\\\hline
+1&Yaroslavl, Vladimir&3000 \\\hline
+2&Vladimir, Rostov, Suzdal&3950 \\\hline
+3&Rostov, Suzdal&2150 \\\hline
+4&Rostov, Yaroslavl&2350 \\\hline
+5&Vladimir&1750 \\\hline
+6&Yaroslavl, Suzdal&2200 \\\hline
+\end{tabular}
+\end{center}
+
+Which routes should the traveler choose to visit all four cities and spend less than 6000 rubles?
+
+In the answer, specify any one set of route numbers without spaces, commas, or other additional symbols.",13
+8927,"In a taxi company, there are 40 passenger cars available: 12 of them are black with yellow markings on the sides, the rest are yellow with black markings. Find the probability that a randomly dispatched car will be yellow with black markings.",0.7
+2992,"The formula for converting temperature from the Fahrenheit scale to the Celsius scale is $t_{C} =\dfrac{5}{9} \left(t_{F} -32\right)$, where $t_{C}$ is the temperature in degrees Celsius, and $t_{F}$ is the temperature in degrees Fahrenheit. How many degrees Celsius correspond to 257 degrees Fahrenheit?",125
+8776,"The floor of a room, which has the shape of a rectangle with sides of 4 m and 6 m, needs to be covered with parquet made of rectangular planks with sides of 10 cm and 30 cm. How many such planks are required?",800
+9549,"At a diving competition, judges gave scores ranging from 0 to 10 to three athletes. The results are shown in the table below.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|*{7}{>{\centering\arraybackslash}m{0.75cm}|}} \hline
+Number  & \multicolumn{1}{@{}c@{}|}{Difficulty} & I  & II & III  & IV  & V  & VI  & VII  \\
+\multicolumn{1}{|@{}c@{}|} {of athlete}  & of dives &  \multicolumn{1}{@{}c@{}|}{judge} & \multicolumn{1}{@{}c@{}|}{judge}& \multicolumn{1}{@{}c@{}|}{judge}& \multicolumn{1}{@{}c@{}|}{judge}& \multicolumn{1}{@{}c@{}|}{judge}& \multicolumn{1}{@{}c@{}|}{judge}& \multicolumn{1}{@{}c@{}|}{judge}\\\hline1 & 7  & 6.3 & 7.1 & 6.9 & 7.6 & 5.7 & 7.7 & 8.4 \\\hline
+2 & 8  & 7.2 & 6.3 & 8.5 & 7.8 & 7.2 & 7.0 & 8.4 \\\hline
+3 & 9  & 6.1 & 7.5 & 5.4 & 7.3 & 7.9 & 7.0 & 5.6 \\\hline
+\end{tabularx}
+\end{center}
+
+The final score is calculated as follows: the two highest and the two lowest scores are discarded, and the remaining three scores are summed and multiplied by the difficulty coefficient.
+
+In the answer, indicate the numbers of the athletes whose final score is greater than 160, without spaces, commas, or any other additional symbols.",23
+7917,"The radius of the inscribed circle in a right-angled triangle is calculated using the formula $r=\dfrac{a+b-c}{2}$, where $a$ and $b$ are the legs, and $c$ is the hypotenuse. Using this formula, find $c$ if $a=8$, $b=15$, and $r=3$.",17
+6042,Find the value of the expression \(\dfrac{9^{-2}}{\left(9^{2}\right)^{-2}}\).,81
+4288,"The geometric mean of three numbers \(a\), \(b\), and \(c\) is calculated using the formula \(g = \sqrt[3]{abc}\). Find the geometric mean of the numbers 5, 25, and 27.",15
+2917,Find the value of the expression $45\cdot 10 -1.2\cdot 10^{2}$.,330
+1206,"In a random experiment, a fair coin is tossed twice. Find the probability that heads will come up both times.",0.25
+13581,"The road between points A and B consists of an ascent and a descent, and its length is 15 km. The journey from A to B took the tourist 10 hours, of which 5 hours were spent on the descent. Find the speed of the tourist on the descent if it is 1 km/h faster than the speed on the ascent. Provide the answer in km/h.",2
+7060,"The income tax is 13% of the salary. After the income tax was withheld, Maria Konstantinovna received 15,660 rubles. How many rubles is Maria Konstantinovna's salary?",18000
+4721,"The chef baked 50 croissants, of which 15 croissants were sprinkled with cinnamon, and 20 croissants were sprinkled with sugar. Choose the statements that are true under the given conditions.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{p{0.1cm}X}  
+1) & There will be 10 croissants that are not sprinkled with anything. \\ 
+2) & If a croissant is sprinkled with sugar, then it is also sprinkled with cinnamon. \\ 
+3) & There cannot be more than 20 croissants sprinkled with both sugar and cinnamon. \\ 
+4) & There will be 20 croissants sprinkled with both sugar and cinnamon. \\ 
+\end{tabularx}\end{center}
+
+In the answer, write down the numbers of the selected statements without spaces, commas, or other additional symbols.",13
+176,"Dmitry Valentinovich is planning a three-day trip to a certain city. The table below provides information about hotels in this city with available rooms for the duration of his trip.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|*{4}{>{\centering\arraybackslash}X|}} \hline
+Hotel Name & Hotel Rating & Distance to Central Square (km) & Room Price (rub. per day) \\ \hline
+""Yuzhnaya"" & 7.6 & 1.1 & 3000 \\ \hline
+""Uyut-Plus"" & 5.3 & 1.9 & 2500 \\ \hline
+""Tsentralnaya"" & 9.4 & 3.4 & 3800 \\ \hline
+""Vokzalnaya"" & 6.9 & 2.3 & 1600 \\ \hline
+""Tourist"" & 8.8 & 2.4 & 3200 \\ \hline
+""Eldorado"" & 9.1 & 2.1 & 3300 \\ \hline
+\end{tabularx}
+\end{center}
+
+Dmitry Valentinovich wants to stay in a hotel that is no further than 2.5 km from the central square and has a rating of at least 8.5. Among the hotels that meet these conditions, select the hotel with the lowest room price per day. How much will it cost to stay in this hotel for three days?",9600
+122,"Sergey Petrovich wants to buy a microwave of a specific model from an online store. The table shows 6 offers from different online stores.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash}X|c|c|c|} \hline
+Store Number & Store Rating & Product Price (rub.) & Delivery Cost (rub.) \\ \hline
+1 & 4 & 13480 & 0 \\ \hline
+2 & 5 & 13840 & 350 \\ \hline
+3 & 4 & 13490 & 0 \\ \hline
+4 & 5 & 13490 & 200 \\ \hline
+5 & 4 & 13890 & 400 \\ \hline
+6 & 3 & 13490 & 0 \\ \hline
+\end{tabularx}
+\end{center}
+
+Sergey Petrovich believes that the purchase should be made in a store with a rating of no less than 4. Among the stores that meet this condition, choose the offer with the lowest total purchase cost including delivery.
+
+In your answer, write down the number of the selected store.",1
+6200,"Find a three-digit natural number, greater than 500, which gives equal non-zero remainders when divided by both 8 and 5, and whose leftmost digit is the arithmetic mean of the other two digits. Provide any one such number as the answer.",564; 684
+4669,"The table shows the distribution of medals at the Winter Olympics in Sochi among the countries that ranked in the top 10 by the number of gold medals.
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|} \hline
+\multirow{}{}{Place} & \multirow{}{}{Country} & \multicolumn{4}{c|}{Medals}\\ \cline{3-6}
+&& Gold & Silver & Bronze & Total \\ \hline
+1 & Russia & 13 & 11 &9 & 33 \\ \hline
+2 & Norway & 11 & 5 &10 & 26 \\ \hline
+3 & Canada & 10 & 10 &5 & 25 \\ \hline
+4 & USA & 9 & 7 &12 & 28 \\ \hline
+5 & Netherlands & 8 & 7 &9 & 24 \\ \hline
+6 & Germany & 8 & 6 &5 & 19 \\ \hline
+7 & Switzerland & 6 & 3 &2 & 11 \\ \hline
+8 & Belarus & 5 & 0 &1 & 6 \\ \hline
+9 & Austria & 4 & 8 &5 & 17 \\ \hline
+10 & France & 4 & 4 &7 & 15 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+Determine using the table how many total medals the country that ranked fourth by the number of gold medals has.",28
+8424,"Under the ""Simple as Day"" tariff plan, the mobile company deducts 15 rubles from the subscriber's account every evening. If the account balance is less than 15 rubles, the number is blocked the next morning until the account is topped up. This morning, Lisa had 350 rubles in her account. How many days (including today) will she be able to use her phone without topping up her account?",23
+7077,"At school, 171 students are studying French, which constitutes 36% of the total number of students in the school. How many students are there in the school?",475
+2454,Find the value of the expression \(\dfrac{2}{1+\dfrac{1}{9}}\).,1.8
+8346,Pavel Ivanovich bought an American car whose speedometer displays speed in miles per hour. What is the speed of the car in kilometers per hour if the speedometer shows 39 miles per hour? Assume that 1 mile is equal to 1609 meters. Round the answer to the nearest whole number.,63
+7642,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Establish the correspondence between the inequalities and their solutions.
+
+\begin{center}
+\hyphenpenalty=10000
+\renewcommand{\arraystretch}{2}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}} 
+\multicolumn{1}{C}{INEQUALITIES} & \multicolumn{1}{C}{SOLUTIONS} \\
+A) $\log _{2} x<-2$ & 1) $0<x<4$ \\ 
+B) $\log _{2} x>2$ & 2) $0<x<\dfrac{1}{4} $ \\ 
+C) $\log _{2} x>-2$ & 3) $x>\dfrac{1}{4} $ \\ 
+D) $\log _{2} x<2$ & 4) $x>4$ \\
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Write the corresponding solution number under each letter in the table provided in the answer.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & & \\ \hline\end{tabular}\end{center}\vspace{\medskip}",2431
+7864,"The area of a triangle is calculated using the formula $S=\dfrac{1}{2} bc\sin {\alpha }$, where $b$ and $c$ are two sides of the triangle, and ${\alpha }$ is the angle between them. Using this formula, find the value of $\sin \alpha$ if $b=2$, $c=15$, and $S=3$.",0.2
+5756,Find the value of the expression $\left(5.3 - 2.8\right) \cdot 3.8$.,9.5
+7904,"The sine theorem can be written as $\dfrac{a}{\sin \alpha } =\dfrac{b}{\sin \beta }$, where $a$ and $b$ are two sides of a triangle, and $\alpha$ and $\beta$ are the angles of the triangle opposite them, respectively. Using this formula, find the value of $\sin \alpha$, if $a=4$, $b=1$, $\sin \beta=\dfrac{1}{10}$.",0.4
+5957,Find the value of the expression \(5.9 \cdot 10^{3} + 2.7 \cdot 10^{2}\).,6170
+66,"The following table presents data on the cost of a certain smartphone model in various stores.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{|X|>{\centering\arraybackslash}X|} \hline
+\multicolumn{1}{c}{Store} & Smartphone Cost (RUB) \\ \hline
+OK-Technika & 13200 \\ \hline
+Skorostnoy & 12300 \\ \hline
+Magic of Communication & 12372 \\ \hline
+I-Phone & 13190 \\ \hline
+Smartphone and Co & 13099 \\ \hline
+Progress-E & 12105 \\ \hline
+999 Phones & 12230 \\ \hline
+Macrosearch & 13130 \\ \hline
+Universe of Phones & 12290 \\ \hline
+\end{tabularx}
+\end{center}
+
+Find the lowest cost of the smartphone among the presented offers. Provide the answer in rubles.",12105
+11956,Find the value of the expression $\left(2\sqrt{6} - \sqrt{23} \right)\left(2\sqrt{6} + \sqrt{23} \right)$.,1
+10084,"A rectangle is divided into four smaller rectangles by two straight cuts. The perimeters of three of them, starting from the top left and continuing clockwise, are 2, 3, and 18. Find the perimeter of the fourth rectangle.",17
+2446,Find the value of the expression \(\left(\dfrac{15}{14} -\dfrac{12}{25} \right):\dfrac{23}{35}\).,0.9
+8120,"To prepare a marinade for cucumbers, 8 grams of citric acid are required per 1 liter of water. Citric acid is sold in packets of 15 grams each. What is the minimum number of packets the housewife needs to buy to prepare 6 liters of marinade?",4
+2326,Find the value of the expression \( 1\dfrac{5}{6} - 0.5 \cdot \left(-\dfrac{10}{3} \right) \).,3.5
+5197,Find the root of the equation \(\sqrt{13-2x} = 5\).,-6
+1038,Find the root of the equation \(5^{4 - 3x} \cdot 5^{8x - 2} = \frac{1}{125}\).,-1
+7205,"In September, 1 kg of plums cost 70 rubles, in October the price of plums increased by 30%, and in November by another 20%. How many rubles did 1 kg of plums cost after the price increase in November?",109.2
+13829,"After breaking in the engine and transmission, the car was able to travel 14% more distance on the same amount of fuel. By what percentage did the fuel consumption decrease? Round your answer to the nearest tenth.",12
+13560,"The distance between cities A and B is 360 km. The first car left city A for city B, and three hours later, the second car left city B towards city A at a speed of 55 km/h. Find the speed of the first car if the cars met at a distance of 250 km from city A. Provide the answer in km/h.",50
+12063,"In the building, there are ten apartments numbered from 1 to 10. Each apartment has at least one and no more than four people living in it. In apartments 1 through 6, there are a total of 9 people living, and in apartments 4 through 10, there are a total of 22 people living. How many people live in the entire building?",25
+10702,"At the end of the term, Vovochka wrote down all his grades in a row for one subject; there were 5 of them, and he inserted multiplication signs between some of them. The product of the resulting numbers turned out to be 13075. What grade does Vovochka receive for the term in this subject, if the teacher only gives grades of ""2"", ""3"", ""4"", or ""5"", and the final term grade is the arithmetic mean of all current grades, rounded according to rounding rules? (For example, 3.2 rounds to 3; 4.5 rounds to 5; and 2.8 rounds to 3.)",4
+8594,Find the root of the equation $\left(x-3\right)^2=\left(x-1\right)^2$.,2
+8700,The room is illuminated by a lamp with two bulbs. The probability of one bulb burning out within a year is 0.02. Find the probability that both bulbs will burn out within a year.,0.0004
+5106,"Establish a correspondence between the quantities and their possible values: match each element of the first column with the corresponding element from the second column.
+
+\vspace{\medskip}
+
+\begin{center}
+\hyphenpenalty=10000
+\begin{tabular}{>{\raggedright\arraybackslash}p{8cm}p{5cm}} 
+QUANTITIES & VALUES \\ 
+A) area of a postage stamp & 1) 162 sq. m \\
+B) area of a writing desk & 2) 1.2 sq. m \\
+C) area of the city of Saint Petersburg & 3) 1439 sq. km \\
+D) area of a volleyball court & 4) 5.2 sq. cm \\ 
+\end{tabular}
+\end{center}
+
+\vspace{\medskip}
+
+In the table below, under each letter corresponding to a quantity, indicate the number of its possible value.
+
+\vspace{\medskip}
+
+\begin{tabular}{|c|c|c|c|} \hline
+A & B & C & D \\ \hline
+ &  &  &  \\ \hline
+\end{tabular}",4231
+1326,"At the geometry exam, a student answers one question from the list of exam questions. The probability that it is a question on the topic ""Inscribed Circle"" is 0.15. The probability that it is a question on the topic ""Trigonometry"" is 0.2. There are no questions that belong to both of these topics simultaneously. Find the probability that the student will get a question on one of these two topics in the exam.",0.35
+11983,Find the root of the equation \( 16^{x} = 8^{x+1} \).,3
+4323,Find the value of the expression $\dfrac{\sqrt{162}}{\sqrt{2}}$.,9
+2671,Find the value of the expression \(\dfrac{23}{14} :\left(\dfrac{5}{4} -\dfrac{3}{7} \right)\).,2
+13504,"A traveler sailed across the sea on a yacht at an average speed of 17 km/h. On the way back, he flew in a sports plane at a speed of 272 km/h. Find the average speed of the traveler for the entire journey. Provide the answer in km/h.",32
+1032,Find the root of the equation \(3^{2x-6} \cdot 3^{7-x} = 81\).,3
+3577,"A rating agency determines the rating of hair dryers based on the average price \(P\) (in rubles), as well as functionality \(F\), quality \(Q\), and design \(D\) indicators. The rating \(R\) is calculated using the formula
+
+\[ R = 3(F + Q) + D - 0.01P. \]
+
+The table provides the prices and indicators for four models of hair dryers.
+
+\vspace{\baselineskip}
+
+\hyphenpenalty=10000
+\begin{tabular}{|C|C|C|C|C|} \hline
+Hair Dryer Model & Average Price & Functionality & Quality & Design \\ \hline
+A & 1800 & 4 & 2 & 2 \\ \hline
+B & 1500 & 3 & 3 & 1 \\ \hline
+C & 1300 & 3 & 1 & 2 \\ \hline
+D & 1100 & 2 & 3 & 2 \\ \hline
+\end{tabular}
+\vspace{\medskip}
+
+Find the lowest rating of the hair dryers listed in the table.",1
+5234,Find the root of the equation \(4^{-5 + x} = 16\).,7
+8439,"The installation of two water meters (cold and hot) costs 3900 rubles. Before the installation of the meters, the water bill was 1000 rubles per month. After the installation of the meters, the monthly water bill became 800 rubles. After what minimum number of months will the savings on the water bill exceed the installation costs of the meters, assuming the water rates do not change?",20
+2375,Find the value of the expression $\dfrac{18}{11} :\dfrac{9}{22} +2.7$.,6.7
+7510,"The root mean square of three numbers \(a\), \(b\), and \(c\) is calculated using the formula \(q=\sqrt{\dfrac{a^{2} +b^{2} +c^{2} }{3} }\). Find the root mean square of the numbers \(\sqrt{11}\), 4, and 9.",6
+7767,"Knowing the length of their step, a person can approximately calculate the distance $s$ they have traveled using the formula $s=nl$, where $n$ is the number of steps and $l$ is the length of a step. What distance has the person traveled if $l=70$ cm and $n=1500$? Give the answer in meters.",1050
+1422,Cross out three digits in the number 30239545 so that the resulting number is divisible by 22. Provide one possible resulting number in your answer.,02354; 30394; 30954
+7093,"Among all the graduates of the school, 30 people plan to study at technical universities, and they make up 40% of the total number of graduates. How many graduates are there in this school?",75
+5974,Find the value of the expression $\dfrac{4\strut^{3} }{4\strut^{2} \cdot 4\strut^{- 1} } $.,16
+10978,"In parallelogram \(ABCD\), it is known that \(AB=9\), \(AC=BD=41\). Find the area of the parallelogram.",360
+5129,"Match the quantities with their possible values: for each element of the first column, select the corresponding element from the second column.
+
+\begin{center}
+\begin{tabular}{>{\raggedright\arraybackslash}p{8cm}p{5cm}}  
+QUANTITIES & VALUES \\ 
+A) volume of a dresser drawer & 1) 0.75 liters \\
+B) volume of water in the Caspian Sea & 2) 78,200 km^{3} \\
+C) volume of a package of fermented baked milk & 3) 96 liters \\ 
+D) volume of a railroad car & 4) 90 m^{3} \\ 
+\end{tabular}\end{center}
+
+In the table, under each letter corresponding to a quantity, indicate the number of its possible value.
+
+\begin{tabular}{|c|c|c|c|} \hline
+A & B & C & D \\ \hline
+ &  &  &  \\ \hline
+\end{tabular}",3214
+2858,Find the value of the expression \(6\cdot 10 +5\cdot 10^{-1} +3\cdot 10^{2}\).,360.5
+5806,Find the value of the expression $\dfrac{5\strut^{- 6} \cdot 5\strut^{3} }{5\strut^{- 5} } $.,25
+4707,"When any cat walks on the fence, the dog Sharik, who lives in the booth near the house, will definitely bark. Choose the statements that are true under the given condition.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{p{0.1cm}X} 
+1) & If Sharik does not bark, then a cat is walking on the fence.\\ 
+2) & If Sharik is silent, then a cat is not walking on the fence.\\ 
+3) & If a black cat walks on the fence, Sharik does not bark.\\ 
+4) & If a white cat walks on the fence, Sharik will bark.\\ 
+\end{tabularx}
+\end{center}
+
+In the answer, write the numbers of the selected statements without spaces, commas, or any other additional symbols.",24
+10681,"At the end of the term, Petya listed all his grades in a row for one of the subjects; there were 5 of them, and he placed multiplication signs between some of them. The product of the resulting numbers turned out to be 690. What is Petya's grade for the term in this subject if the teacher only gives the grades ""2,"" ""3,"" ""4,"" or ""5,"" and the final term grade is the arithmetic mean of all the current grades, rounded according to rounding rules? (For example, 3.2 is rounded to 3; 4.5 to 5; and 2.8 to 3.)",3
+5138,"At a gas station, a customer gave the cashier 1000 rubles and filled the tank with 28 liters of gasoline. The price of gasoline is 30.5 rubles per liter. How many rubles in change should the customer receive?",146
+4095,"The power of direct current (in watts) is calculated using the formula $P=I^{2} R$, where $I$ is the current (in amperes), and $R$ is the resistance (in ohms). Using this formula, find $P$ (in watts) if $R=9$ ohms and $I=8.5$ A.",650.25
+5872,Find the value of the expression $\dfrac{4\strut^{10} }{2\strut^{11} } $.,512
+11675,"In the parallelogram $ABCD$, the diagonals are the bisectors of its angles, $AB=39$, $AC=30$. Find $BD$.",1080
+13620,"The first pump fills the tank in 12 minutes, the second one in 54 minutes, and the third one in 1 hour and 48 minutes. How many minutes will it take for the three pumps to fill the tank if they work simultaneously?",9
+4931,"On average, 60 tea bags are used per day during the conference. The conference lasts for 9 days. Each box of tea contains 50 tea bags. What is the minimum number of boxes of tea needed to last for all the days of the conference?",11
+2543,Find the value of the expression \(\left(1\dfrac{5}{6} +\dfrac{3}{5} \right)\cdot 24\).,58.4
+3123,Find the value of the expression \(\left(2\sqrt{2} - 4\right) \cdot \left(2\sqrt{2} + 4\right)\).,-8
+5444,"Masha, Nastya, Tolya, Renat, and Maxim drew lots to determine who should start the game. Find the probability that Nastya will not be the one to start the game.",0.8
+5741,Find the value of the expression \( 5.4 \cdot 5.5 + 3.7 \).,33.4
+8118,"To prepare a marinade for cucumbers, 7 grams of citric acid are required per 1 liter of water. Citric acid is sold in packets of 5 grams each. What is the minimum number of packets the housewife needs to buy to prepare 7 liters of marinade?",10
+4660,"In the hammer throw competition, the participants showed the following results:
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|} \hline
+\multirow{}{}{Athlete}&\multicolumn{6}{c|}{Attempt result, m}\\ \cline{2-7}
+&I&II&III&IV&V&VI\\ \hline
+Vanin & 49 & 50.5 & 50 & 51 & 51 & 49.5 \\ \hline
+Avdienko & 51 & 52.5 & 49.5 & 50 & 52 & 51.5 \\ \hline
+Kasatkin & 50.5 & 50 & 49 & 51.5 & 51 & 51.5 \\ \hline
+Nikonov & 52 & 51 & 52 & 50.5 & 51.5 & 51 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+The rankings are determined based on the best attempt of each athlete: the farther the hammer is thrown, the better.
+
+What place did athlete Avdienko take?",1
+5976,Find the value of the expression $\dfrac{2\strut^{5} }{2\strut^{3} \cdot 2\strut^{- 1} }$.,8
+8928,"In the taxi company, there are 20 cars: 11 of them are black with yellow inscriptions on the sides, and the rest are yellow with black inscriptions. Find the probability that a randomly called car will be yellow with black inscriptions.",0.45
+5337,"In manufacturing, on average, there are 25 defective pumps for every 475 working ones. Find the probability that a randomly selected pump will be working.",0.95
+3081,Find the value of the expression $\dfrac{5}{7} \sqrt{18} \cdot \sqrt{98}$.,30
+5916,Find the value of the expression \(\dfrac{2.4 \cdot 10^{2}}{6 \cdot 10^{-1}}\).,400
+6177,"Find a three-digit number that is a multiple of 30, all of whose digits are different, and the sum of the squares of its digits is divisible by 4 but not divisible by 16. Provide one such number as your answer.",240; 420
+1401,"Cross out three digits in the number 53164018 so that the resulting number is divisible by 15. In your answer, provide one such resulting number.",53160; 53640
+12287,"The acceleration of a body (in m/s²) during uniform circular motion can be calculated using the formula \( a = \omega^2 R \), where \( \omega \) is the angular velocity (in s⁻¹), and \( R \) is the radius of the circle (in meters). Using this formula, find \( a \) (in m/s²) if \( R = 0.5 \) m and \( \omega = 16 \) s⁻¹.",128
+956,Find the root of the equation \(6 - 4x = -9x - 5\).,-2.2
+9614,"The digits of a four-digit number, which is a multiple of 5, were written in reverse order to obtain a second four-digit number. Then the second number was subtracted from the original number, resulting in 4626. Provide any one such original number in the answer.",9705; 9815; 9925
+6886,The number of visitors to the website tripled in one month. By what percentage did the number of visitors to the website increase during this month?,200
+6137,"Find a four-digit number that is a multiple of 33, all of whose digits are distinct and odd. Provide one such number as the answer.",3597; 3795; 5379; 5973; 7359; 7953; 9537; 9735
+12202,"Here is the translated problem:
+
+On 6 cards, the digits 3, 6, 7, 7, 8, 9 are written (one digit on each card). In the expression $$\Box+\Box\Box+\Box\Box\Box$$, a card from the set was placed instead of each square. It turned out that the resulting sum is divisible by 20. Provide one such sum in your answer.",760; 940
+10384,"Only 80% of the 25,000 graduates in the city correctly solved problem #1. How many graduates from this city correctly solved problem #1?",20000
+8993,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Establish correspondence between the inequalities and their solutions.
+
+\begin{center}
+\renewcommand{\arraystretch}{2}
+\begin{tabular}{ll} 
+\multicolumn{1}{c}{INEQUALITIES} & \multicolumn{1}{c}{SOLUTIONS} \\  
+A) $\log _{4} x>0$ & 1) $\left(-\infty ;1\right)\cup \left(5;+\infty \right)$ \\
+B) $4\strut^{-x+7} >16$ & 2) $\left(1;+\infty \right)$ \\
+C) $\dfrac{x-1}{x-5} <0$ & 3) $\left(1;5\right)$ \\
+D) $\dfrac{1}{\left(x-5\right)\left(x-1\right)} >0$ & 4) $\left(-\infty ;5\right)$ \\  
+\end{tabular}
+\end{center}
+
+Write the corresponding number under each letter in the provided table.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & &  \\ \hline\end{tabular}",2431
+3664,"At the beginning of the year, the number of subscribers to the ""Vostok"" telephone company was 500,000 people, and by the end of the year, it had increased to 575,000 people. By what percentage did the number of subscribers to this company increase over the year?",15
+11920,Find the value of the expression \(7.6 \div \dfrac{19}{12}\).,4.8
+458,"In the men's dormitory of the institute, no more than three people can be accommodated in each room. What is the minimum number of rooms needed to accommodate 79 out-of-town students?",27
+12914,"Into a vessel containing 5 liters of a 14% aqueous solution of a certain substance, 5 liters of water were added. What is the concentration of the resulting solution in percentage?",7
+4817,"A pack contains 500 sheets of A4 paper. In a week, 800 sheets are used in the office. What is the minimum number of packs of paper needed for 7 weeks?",12
+8569,"Solve the equation \( x^{2} - 9 = 0 \). If the equation has more than one root, specify the smaller one in the answer.",-3
+5435,"In the collection of chemistry exam tickets, there are a total of 15 tickets, and 6 of them contain a question on the topic ""Salts"". Find the probability that a randomly selected exam ticket will contain a question on the topic ""Salts"".",0.4
+3567,"An independent expert laboratory determines the rating of meat grinders based on a value coefficient equal to 0.01 of the average price $P$ (in rubles), functionality indicators $F$, quality $Q$, and design $D$. The rating $R$ is calculated using the formula
+
+\[R = 3(F + Q) + D - 0.01P.\]
+The table below lists the prices and indicators for four models of meat grinders.
+
+\vspace{\baselineskip}
+
+\begin{tabularx}{\textwidth}{|>{\centering\arraybackslash\hsize=1.1\hsize}X|>{\centering\arraybackslash\hsize=1.1\hsize}X|>{\centering\arraybackslash\hsize=0.8\hsize}X|C|C|} \hline
+Meat Grinder Model & Price per Unit\newline (rubles) & Functionality & Quality & Design \\ \hline
+A & 4700 & 2 & 4 & 0 \\ \hline
+B & 2300 & 1 & 2 & 0 \\ \hline
+C & 5400 & 2 & 4 & 2 \\ \hline
+D & 3700 & 3 & 1 & 2 \\ \hline
+\end{tabularx}
+\vspace{\medskip}
+\hyphenpenalty=50
+
+Find the highest rating among the meat grinder models listed in the table.",-14
+12094,"In the store, kvass on tap can be bought in bottles, and the cost of kvass in a bottle consists of the cost of the bottle itself and the kvass poured into it. The price of the bottle does not depend on its volume. A 1-liter bottle of kvass costs 36 rubles, a 2-liter bottle costs 66 rubles. How many rubles will a 1.5-liter bottle of kvass cost?",51
+8127,"To prepare a marinade for cucumbers, 15 grams of citric acid is required per 1 liter of water. Citric acid is sold in packets of 15 grams each. What is the minimum number of packets the housewife needs to buy to prepare 5 liters of marinade?",5
+3425,"An internet service provider offers three tariff plans.
+
+\vspace{\baselineskip}
+
+\hyphenpenalty=10000
+\begin{tabularx}{\textwidth}{|C|>{\centering\arraybackslash}X|>{\centering\arraybackslash}X|} \hline
+Tariff Plan & Subscription Fee & Traffic Fee \\ \hline
+Plan ""0"" & None & 2 RUB per 1 MB \\ \hline
+Plan ""200"" & 204 RUB for 200 MB\newline of traffic per month & 1.2 RUB per 1 MB\newline over 200 MB \\ \hline
+Plan ""800"" & 672 RUB for 800 MB\newline of traffic per month & 0.5 RUB per 1 MB\newline over 800 MB \\ \hline
+\end{tabularx}
+\vspace{\medskip}
+
+A user expects their traffic to be 700 MB per month and chooses the cheapest tariff plan based on this expectation. How many rubles will the user have to pay for the month if their traffic actually amounts to 700 MB?",672
+3210,Find the value of the expression \(6\strut^{\log_{6} 5+2}\).,180
+4437,Find the value of the expression $\sqrt{20} \cdot \sqrt{5}$.,10
+5954,"At the exchange point, one of the following two operations can be performed:
+
+\begin{itemize}
+\item  exchange 5 gold coins for 7 silver coins and one copper coin;
+
+\item  exchange 10 silver coins for 7 gold coins and one copper coin.
+\end{itemize}
+
+Nikolay initially had only silver coins. After several visits to the exchange point, the number of silver coins he had decreased, he did not obtain any gold coins, but he ended up with 60 copper coins. By how much did the number of silver coins Nikolay had decrease?",5
+6927,Find the value of the expression $\dfrac{4.7 - 1.4}{7.5}$.,0.44
+2629,Find the value of the expression \(\left(5\dfrac{4}{9} -3\right):\dfrac{1}{36}\).,88
+4056,"The area of a trapezoid is calculated using the formula \( S=\dfrac{a+b}{2} \cdot h \), where \( a \) and \( b \) are the bases of the trapezoid, and \( h \) is its height. Using this formula, find \( S \) if \( a=5 \), \( b=3 \), and \( h=6 \).",24
+11914,Find the value of the expression $\dfrac{23}{24} - \dfrac{5}{24}$.,0.75
+5379,"On average, out of 600 garden pumps that go on sale, 3 leak. Find the probability that one randomly selected pump for inspection does not leak.",0.005
+4430,Find the value of the expression $\dfrac{\log _{7} \left(11\strut^{6} \right)}{2\log _{7} 11} $.,3
+11882,"In the building, there are eighteen apartments numbered from 1 to 18. Each apartment houses no fewer than one and no more than three people. The total number of people living in apartments from the 1st to the 13th inclusive is 15, and the total number of people living in apartments from the 11th to the 18th is 20. How many people live in the entire building?",30
+5338,"In production, on average, there are 20 defective pumps for every 180 functional pumps. Find the probability that a randomly selected pump will be functional.",0.9
+2570,Find the value of the expression $\left(\dfrac{1}{20} +\dfrac{11}{8} \right)\cdot \dfrac{18}{5}$.,5.13
+5886,Find the value of the expression \(\dfrac{2^{7} \cdot 5^{6}}{10^{5}}\).,20
+7455,"The store offers a discount to pensioners. A loaf of bread costs 15 rubles in the store, but a pensioner paid 13 rubles and 80 kopecks for it. What percentage was the discount for the pensioner?",8
+8487,"To paint 1 square meter of ceiling, 290 grams of paint are required. The paint is sold in 3 kg cans. What is the minimum number of cans of paint that needs to be purchased to paint a ceiling with an area of 36 square meters?",4
+3693,"The T-shirt cost 500 rubles. After the price reduction, it became 390 rubles. By what percentage was the price of the T-shirt reduced?",22
+10666,"Several consecutive pages fell out of a book. The number of the last page before the missing pages is 352, and the number of the first page after the missing pages is written with the same digits but in a different order. How many pages fell out?",85
+4348,Find the value of the expression $\dfrac{4\sqrt{75} }{\sqrt{3} } $.,20
+4375,Find the value of the expression $\log_{3} 1.8 + \log_{3} 5$.,2
+9611,"The digits of a four-digit number, which is a multiple of 5, were written in reverse order to obtain a second four-digit number. Then the second number was subtracted from the original number, resulting in 3456. Provide any one such original number as the answer.",9065; 9175; 9285; 9395
+9393,"A construction contractor plans to buy 10 tons of facing bricks from one of three suppliers. One brick weighs 5 kg. The price of the brick and the delivery conditions for the entire purchase are given in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|} \hline
+Supplier & Price per brick & Delivery cost (rub.) & Special conditions \\
+& (rub. per pc.) & & \\\hline
+A & 47 & 9000 & None \\\hline
+B & 52 & 8500 & Free delivery, \\ 
+ &&& if the order amount \\ 
+ &&& exceeds 100,000 rub. \\\hline
+C & 61 & 6000 & 50% discount on delivery, \\ 
+ &&& if the order amount \\ 
+ &&& exceeds 120,000 rub.\\\hline
+\end{tabular}
+\end{center}
+
+What will be the cost in rubles for the cheapest purchase option with delivery?",103000
+2987,"The formula for converting temperature from the Fahrenheit scale to the Celsius scale is $t_{C} =\dfrac{5}{9} \left(t_{F} -32\right)$, where $t_{C}$ is the temperature in degrees Celsius, and $t_{F}$ is the temperature in degrees Fahrenheit. How many degrees Celsius correspond to 86 degrees Fahrenheit?",30
+9498,"In three cellular stores, the same smartphone is sold on credit under different conditions. The conditions are given in the table.
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|} \hline
+Store & Price & Initial & Term & Monthly \\ 
+ & of the & payment & of the & payment \\
+ & smartphone & & credit & (RUB)\\ 
+ & (RUB) & (as % of price) & (months) & \\\hline
+Epsilon & 8100 & 30 & 6 & 1440 \\\hline
+Delta & 8200 & 10 & 12 & 840 \\\hline
+Omicron & 9600 & 15 & 12 & 800 \\\hline
+\end{tabular}
+\end{center}
+
+Determine in which store the purchase will cost the least (including overpayment). In the answer, write this amount in rubles.",10900
+7783,"To convert temperature from the Celsius scale to the Fahrenheit scale, use the formula \( t_{F} = 1.8t_{C} + 32 \), where \( t_{C} \) is the temperature in degrees Celsius, and \( t_{F} \) is the temperature in degrees Fahrenheit. How many degrees Fahrenheit correspond to 29 degrees Celsius?",84.2
+2634,Find the value of the expression $\left(2\dfrac{3}{7} -2\right):\dfrac{1}{14}$.,6
+4260,"The area of a triangle with sides \(a\), \(b\), \(c\) can be found using Heron's formula \(S = \sqrt{p(p-a)(p-b)(p-c)}\), where \(p = \dfrac{a+b+c}{2}\). Find the area of the triangle if the lengths of its sides are 25, 51, and 74.",300
+8558,"Solve the equation \(x^{2} + 3x - 18 = 0\). If the equation has more than one root, indicate the larger one in the answer.",3
+9771,Find the value of the expression \(30.71:\left(9\dfrac{1}{5} -\dfrac{9}{10} \right)\).,3.7
+4726,"The company employs 100 people, of whom 70 know Portuguese and 50 know French. Choose the statements that are true under the given conditions.
+
+\begin{center}
+\begin{tabularx}{\textwidth}{p{0.1cm}X}  
+1) & At least five people in this company know both Portuguese and French. \\ 
+2) & There is not a single person in this company who knows both Portuguese and French. \\ 
+3) & If a person from this company knows Portuguese, then they also know French. \\ 
+4) & No more than 50 people in this company know both Portuguese and French. \\ 
+\end{tabularx}\end{center}
+
+In your answer, write the numbers of the selected statements without spaces, commas, or any other additional symbols.",14
+4926,"On average, 80 tea bags are used per day during the conference. The conference lasts 8 days. Each box of tea contains 100 tea bags. What is the minimum number of boxes of tea needed for all the days of the conference?",7
+5333,"In the hammer throw competition, the participants showed the following results:
+
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|} \hline
+\multirow{}{}{Athlete}&\multicolumn{6}{c|}{Attempt Result, m}\\ \cline{2-7}
+&I&II&III&IV&V&VI\\ \hline
+Kuznetsov & 54.5 & 53 & 55.5 & 53.5 & 54.5 & 55 \\ \hline
+Letov & 55 & 56 & 54.5 & 55.5 & 56 & 54.5 \\ \hline
+Minakov & 54 & 53 & 53.5 & 54 & 52.5 & 51.5 \\ \hline
+Terpilov & 54.5 & 54 & 53 & 55 & 51.5 & 49 \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+The places are distributed according to the results of each athlete's best attempt: the farther they threw the hammer, the better.
+
+What is the result of the best attempt (in meters) of the athlete who took third place?",55
+7638,"Each of the four inequalities in the left column corresponds to one of the solutions in the right column. Establish the correspondence between the inequalities and their solutions.
+
+\begin{center}
+\renewcommand{\arraystretch}{2}
+\begin{tabularx}{\textwidth}{{>{\raggedright}X>{\raggedright\arraybackslash}X}} 
+\multicolumn{1}{C}{INEQUALITIES} & \multicolumn{1}{C}{SOLUTIONS} \\
+A) $\log _{4} x>1$ & 1) $\left(4;+ \infty \right)$ \\ 
+B) $\log _{4} x<-1$ & 2) $\left(0;4\right)$ \\ 
+C) $\log _{4} x>-1$ & 3) $\left(\dfrac{1}{4} ;+ \infty \right)$ \\ 
+D) $\log _{4} x<1$ & 4) $\left(0;\dfrac{1}{4} \right)$ \\
+\end{tabularx}\end{center}\vspace{\medskip}
+
+Write the corresponding solution number under each letter in the provided table.
+
+\vspace{\baselineskip}\begin{tabular}{|*{4}{C|}} \hline A & B & C & D \\ \hline & & & \\ \hline\end{tabular}\end{center}\vspace{\medskip}",1432
+5352,"A scientific conference is held over 3 days. A total of 50 presentations are planned: 18 presentations on the first day, and the rest are distributed equally between the second and third days. The order of presentations is determined randomly. What is the probability that Professor M.'s presentation will be scheduled on the last day of the conference?",0.32
+4522,Find the value of the expression \(6\sqrt{3} \sin 420^\circ\).,9
+1028,Find the root of the equation \(7^{2+x} \cdot 7^{4-5x} = \frac{1}{49}\).,2
+3695,"The T-shirt cost 400 rubles. After the price increase, it started to cost 500 rubles. By what percentage was the price of the T-shirt increased?",25
+5923,"The owner agreed with the workers that they would dig a well for him under the following conditions: for the first meter, he will pay them 4200 rubles, and for each subsequent meter, 1300 rubles more than for the previous one. How many rubles will the owner have to pay the workers if they dig a well 11 meters deep?",117700
+2381,Find the value of the expression \(\dfrac{1}{7} :\left(-\dfrac{5}{21} \right)+4.6\).,4
+4560,Find the value of the expression $\log_{7} 686 - \log_{7} 2$.,3
+7252,"The state owns 35% of the company's shares, the remaining shares belong to private individuals. The company's total profit after taxes for the year amounted to 20 million rubles. What amount of this profit should go to the private shareholders? Provide your answer in millions of rubles.",13
+4548,Find the value of the expression $\log _{2} \left(\log _{7} 49\right)$.,1
+6856,A pack of butter costs 50 rubles. The store gives pensioners a 10% discount. How many rubles does a pack of butter cost for a pensioner?,45
+7465,"The store gives a discount to pensioners. A loaf of bread costs 15 rubles in the store, but a pensioner paid 13 rubles 35 kopecks for it. What percentage was the discount for the pensioner?",11
+10088,"The table has three columns and several rows. In each cell of the table, a natural number is written such that the sum of all the numbers in the first column is 103, in the second column is 97, and in the third column is 93, and the sum of the numbers in each row is greater than 21 but less than 24. How many rows are there in the table?",13
+4744,"When weighing animals at the zoo, it was found that the giraffe is heavier than the camel, the camel is heavier than the tiger, and the leopard is lighter than the camel. Choose the statements that are true under these conditions.
+
+\begin{center}\begin{tabularx}{\textwidth}{p{0.1cm}X}  
+1) & The leopard is heavier than the camel. \\ 
+2) & The giraffe is heavier than the leopard. \\ 
+3) & The giraffe is lighter than the tiger. \\ 
+4) & The giraffe is the heaviest of all these animals. \\ 
+\end{tabularx}\end{center}
+
+In the answer, write down the numbers of the chosen statements without spaces, commas, or other additional symbols.",24
+2850,Find the value of the expression $3\cdot 10 +5\cdot 10^{2} +9\cdot 10^{3}$.,9530
+2384,Find the value of the expression $\dfrac{2}{9} :\left(-\; \dfrac{1}{36} \right)+2.5$.,-5.5
+10053,"The quiz question list consisted of 25 questions. For each correct answer, the student received 5 points, for each incorrect answer 9 points were deducted, and for no answer 0 points were given. How many correct answers did the student give if they scored 40 points, knowing that they made at least one mistake?",17
