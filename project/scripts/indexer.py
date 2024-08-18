@@ -117,18 +117,18 @@ def search(prompt):
             "script_score": {
                 "query": {"match_all": {}},
                 "script": {
-                    "source": "cosineSimilarity(params.query_vector, 'content_vector') + 1.0",
+                    "source": "cosineSimilarity(params.query_vector, 'vector') + 1.0",
                     "params": {"query_vector": query_vector}
                 }
             }
         }
     }
 
-    results = es.search(index="website_content", body=search_query, size=5)
+    results = es.search(index=INDEX_NAME, body=search_query, size=5)
 
     print(f"Search results for: '{prompt}'")
     for hit in results['hits']['hits']:
-        print(f"URL: {hit['_source']['url']}")
+        print(f"URL: {hit['_source']['url']} (Chunk: {hit['_source'].get('chunk_index', 'N/A')})")
         print(f"Score: {hit['_score']}")
         print(f"Content snippet: {hit['_source']['content'][:200]}...")
         print()

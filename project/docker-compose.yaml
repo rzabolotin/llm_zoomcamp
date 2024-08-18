@@ -23,6 +23,7 @@ services:
       - SENTENCE_TRANSFORMERS_MODEL=${SENTENCE_TRANSFORMERS_MODEL:-paraphrase-MiniLM-L6-v2}
     volumes:
       - ./data:/app/data
+      - ./scripts/indexer.py:/app/indexer.py  # Прокидываем indexer.py в контейнер
     depends_on:
       - elasticsearch
 
