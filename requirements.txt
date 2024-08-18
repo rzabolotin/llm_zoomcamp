@@ -8,3 +8,5 @@ python-dotenv
 openai
 streamlit
 sentence_transformers
+requests
+beautifulsoup4
